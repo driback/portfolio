@@ -22,7 +22,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Fikri Febrianto | Software Developer',
+  title: 'Fikri Febrianto',
   description:
     'A passionate software developer focused on building responsive and accessible web applications with modern technologies.',
   authors: [{ name: 'driback', url: 'https://github.com/driback' }],
@@ -38,7 +38,6 @@ export const metadata: Metadata = {
     'portfolio',
   ],
   applicationName: 'Portfolio',
-  generator: 'Next.js',
   robots: 'index, follow',
 };
 
