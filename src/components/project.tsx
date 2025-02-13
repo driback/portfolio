@@ -31,6 +31,7 @@ const projects: ProjectProps[] = [
   {
     name: 'Pixel',
     repo: 'https://github.com/driback/pixel',
+    web: 'https://pixlz.vercel.app/',
     description:
       'Pixel is a application that allows you to pixelate an image. To use it, you first need to upload your image. After that, you can adjust the pixel size and download the pixelated image.',
     stacks: [
